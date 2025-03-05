@@ -1,1 +1,1 @@
-I am self learning Python and these is a record of my progress.
+I am self learning Python and these are a record of my progress.
